@@ -1,5 +1,6 @@
-# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+# EXPERIMENT 8 : WINDOWS BASIC COMMANDS BATCHSCRIPT
+## NAME : Narendra Krishnan KS
+## REGISTRATION NUMBER : 212225240096
 
 # AIM:
 To execute Windows basic commands and batch scripting
@@ -28,33 +29,48 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
+<img width="755" height="91" alt="os exp8 ss1" src="https://github.com/user-attachments/assets/1fc1e495-2ef6-4039-bc43-8d1a610bbad0" />
+
+
 ## COMMAND AND OUTPUT
 
 
 Create the file Rose.txt
 
+<img width="617" height="142" alt="os exp8 ss2" src="https://github.com/user-attachments/assets/0ad401fc-95bb-4e11-8885-98652efc37ca" />
+
+
 ## COMMAND AND OUTPUT
+COPY CON Rose.txt A clock in a office can never get stolen Too many employees watch it all the time
+<img width="617" height="142" alt="os exp8 ss2" src="https://github.com/user-attachments/assets/258cfd37-4356-4515-bed9-589ed3d85517" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="652" height="312" alt="os exp8 ss5" src="https://github.com/user-attachments/assets/632b2b58-b106-4243-bbd9-ae10d8b59e09" />
+
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="766" height="230" alt="os ex8 ss6" src="https://github.com/user-attachments/assets/3d3d051e-59c9-492c-b247-4c8f53cba85b" />
+
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="787" height="178" alt="image" src="https://github.com/user-attachments/assets/bc225377-153f-4317-9944-8ca0cc03b032" />
 
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
+<img width="546" height="817" alt="os exp8 ss 7" src="https://github.com/user-attachments/assets/ad8f48f9-5e11-4cfc-826a-85370ba8cb24" />
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+<img width="710" height="210" alt="os exp8 ss8" src="https://github.com/user-attachments/assets/8570fafe-f548-49ad-830e-5ec94afd999f" />
 
 
 Compare the file hello.txt and rose.txt
@@ -70,6 +86,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 ## OUTPUT
 
+<img width="755" height="110" alt="os exp8 ss9" src="https://github.com/user-attachments/assets/825c47be-495a-4958-8f01-ac8e41eeb6fd" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -84,6 +101,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
+<img width="712" height="170" alt="os exp8 ss10" src="https://github.com/user-attachments/assets/1f17c3ba-6fb8-429b-9b4b-67b830333086" />
 
 
 
@@ -94,6 +112,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 ## OUTPUT
 
+<img width="667" height="221" alt="os exp8 ss11" src="https://github.com/user-attachments/assets/3d8d3c1d-86b6-40d5-8fcf-3c653f96af55" />
 
 
 
@@ -106,6 +125,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="670" height="105" alt="os exp8 ss12" src="https://github.com/user-attachments/assets/ff763e55-17a2-404f-9596-e3bf1ef12e83" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -117,8 +137,8 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 ## OUTPUT
 
+<img width="632" height="497" alt="image" src="https://github.com/user-attachments/assets/e49b0eba-4ee2-423f-ad45-f9dea99e9749" />
 
 
 # RESULT:
 The commands/batch files are executed successfully.
-
